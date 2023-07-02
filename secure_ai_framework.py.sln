@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "secure_ai_framework.py", "secure_ai_framework.py.pyproj", "{66AACA3D-1D52-4CF3-90D9-D0B4FDA8751C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AACA3D-1D52-4CF3-90D9-D0B4FDA8751C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AACA3D-1D52-4CF3-90D9-D0B4FDA8751C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0CADC1-4F43-4CA7-9DD9-D08D26074149}
+	EndGlobalSection
+EndGlobal
