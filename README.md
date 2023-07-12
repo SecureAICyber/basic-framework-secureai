@@ -47,10 +47,36 @@ To comply with privacy laws and regulations, the software incorporates data anon
 
 The software includes a data portability feature that allows users to export their data in a portable format. This enables easy transfer and migration of data between different systems or platforms.
 
+Install the required dependencies: pip install -r requirements.txt
+
+Configure the necessary credentials and settings. Refer to the provided documentation for specific instructions.
+
+Run the software using the main Python file: python main.py
+
+Usage
+Please refer to the usage documentation for detailed instructions on how to use the software and its various features.
+
+Contributing
+Contributions to the SecureAI cybersecurity software are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
+
+License
+This software is licensed under the MIT License.
+
+Feel free to customize and modify this documentation to best suit your project's needs.
+
+
+
 Clone the repository:
 
    ```shell
    git clone: https://github.com/SecureAICyber/basic-framework-secureai
+
+   pip install -r requirements.txt
+
+   python main.py
+
+
+
 
 
 
